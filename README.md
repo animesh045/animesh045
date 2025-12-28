@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Animesh+Lodhi;UI%2FUX+Developer;B.Tech+CSE+Student+at+DCRUST;Front-end+Developer;Designer+%7C+Leader+%7C+Learner" />
 </p>
 
-# 👋 Welcome to my GitHub
+# Welcome to my GitHub
 
 🎨 UI/UX Developer  
 📍 Faridabad, India  
-📧 animesh045th3@gmail.com | 📞 +91 83688 25928  
+📧 animesh045th3@gmail.com 
 
 ---
 
@@ -28,8 +28,8 @@ I love designing simple experiences and working on real-world projects.
 ---
 
 ## 🎨 Experience
-**UI/UX Designer — Meta Vibronics & Fiveps**  
-Designed mobile and web interfaces in Figma and collaborated with agency teams.
+**Graphic Designer — Meta Vibronics & Fiveps**  
+Designed mobile interfaces and graphics in Figma and canva, collaborated with agency teams.
 
 ---
 
