@@ -6,7 +6,8 @@
 
 🎨 UI/UX Developer  
 📍 Faridabad, India  
-📧 animesh045th3@gmail.com 
+📧 animesh045th3@gmail.com
+
 Resume: https://drive.google.com/file/d/1AEQVckozFqi5T0xUK3P3HaEKrNGUvDla/view
 
 ---
